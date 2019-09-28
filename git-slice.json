@@ -1,0 +1,10 @@
+{
+    "repoUrl": "https://arslanarshad31@github.com/arslanarshad31/copybara-main.git",
+    "folders": [
+      "./"
+    ],
+    "branch": "master",
+    "ignore": [
+      "git-slice.json"
+    ]
+  }
